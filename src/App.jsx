@@ -134,7 +134,7 @@ function App() {
       organization: 'Your Organization',
       date: 'Year',
       credentialId: 'Credential ID',
-      image: 'embedded dystem and iot.png',
+      image: 'Emb.png',
     },
     {
       title: 'Journey to Cloud Envisioning',
