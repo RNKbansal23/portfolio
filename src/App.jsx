@@ -113,7 +113,7 @@ function App() {
       organization: 'Your Organization',
       date: 'Year',
       credentialId: 'Credential ID',
-      image: 'Applid machine learning in python.png',
+      image: '/Applid machine learning in python.png',
     },
     {
       title: 'Business Analyst and Management',
