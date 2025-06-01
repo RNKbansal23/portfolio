@@ -248,7 +248,7 @@ function App() {
             <div className="flex-1 flex justify-center">
               <div className="w-[500px] h-[500px] rounded-full overflow-hidden border-4 border-blue-500 shadow-lg transform hover:scale-105 transition-transform duration-300">
                <img 
-  src="/profile-pic.jpg" 
+  src="/Profile_pic.jpg" 
   alt="Rajat Bansal" 
   className="w-full h-full object-cover object-center"
   style={{ objectPosition: 'center 0%' }}
